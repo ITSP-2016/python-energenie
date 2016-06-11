@@ -2,10 +2,10 @@ import RPi.GPIO as GPIO
 from time import sleep
 
 # The GPIO pins for the Energenie module
-BIT1 = 17
-BIT2 = 22
-BIT3 = 23
-BIT4 = 27
+BIT1 = 26
+BIT2 = 19
+BIT3 = 13
+BIT4 = 6
 
 ON_OFF_KEY = 24
 ENABLE = 25
